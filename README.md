@@ -13,6 +13,7 @@ Find and remove potentially harmful browser extensions using manual review.
 4. Googled unknown ones for reviews or known issues.
 5. Removed:
    - “Adblock Plus - free ad blocker” – poor reviews, access to all sites.
+   - “PostMessage-tracker” – this extension was turned off because it is no longer supported.
 
 ## Learning
 - Some extensions can read everything on websites.
@@ -20,6 +21,6 @@ Find and remove potentially harmful browser extensions using manual review.
 - Always check source, reviews, and purpose before installing.
 
 ## Outcome
-- 1 suspicious extensions removed.
+- 2 suspicious extensions removed.
 - Better browser performance.
 - Learned about browser security risks.
